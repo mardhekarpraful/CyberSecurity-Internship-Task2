@@ -49,19 +49,21 @@ A full list of identified phishing characteristics is available in `phishing_ana
 
 ## 🗂 Screenshots  
 
-![Header Analysis Result](screenshots/header-analysis-result.png)
+![Header Analysis Result](header-analysis-result.png)
 
 ---
 
 ## 📁 Files in This Repo
 
-| File | Description |
-|------|-------------|
-| `phishing_email_sample.eml` | Original email used for analysis |
-| `phishing_email_sample.html` | Visual representation of the email |
-| `phishing_analysis_report.md` | Detailed summary of all phishing indicators |
-| `screenshots/header-analysis-result.png` | Screenshot of header analysis |
-| `README.md` | This documentation |
+| File                    | Description                         |
+|-------------------------|-------------------------------------|
+| phishing_sample.eml     | Original email used for analysis    |
+| decoded_email.html      | Visual representation of the email |
+| email_headers.txt       | Raw headers extracted from the email |
+| phishing_analysis_report.md | Detailed phishing indicators report |
+| header-analysis-result.png | Screenshot of header analysis      |
+| README.md               | This documentation                  |
+
 
 ---
 
